@@ -4755,7 +4755,7 @@ __metadata:
     vite-plugin-checker: ^0.5.1
     vite-plugin-dts: ^1.6.6
     vitest: ^0.24.4
-    vitest-mock-extended: 1.0.3
+    vitest-mock-extended: 1.0.5
   peerDependencies:
     "@prisma/client": ^4.5.0
   languageName: unknown
@@ -6132,15 +6132,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vitest-mock-extended@npm:1.0.3":
-  version: 1.0.3
-  resolution: "vitest-mock-extended@npm:1.0.3"
+"vitest-mock-extended@npm:1.0.5":
+  version: 1.0.5
+  resolution: "vitest-mock-extended@npm:1.0.5"
   dependencies:
     ts-essentials: ^9.3.0
   peerDependencies:
     typescript: 3.x || 4.x
     vitest: ">=0.24.3"
-  checksum: 37bdbb0a61f7499b338e0a4d133f780803018051dd4caf1f114d62b1de4d6426365000cfbf694f6d864411329d245cd0aa096ad63aa9e0412b6a4ba0e2e5a78e
+  checksum: 20384284bb297be0b026ebef497f0ad563c7852b70121d695e1fdc747d46b819baded887cf256b3881f00b5fb5b84b7db52458715ca3dd373b278b0be0590800
   languageName: node
   linkType: hard
 
